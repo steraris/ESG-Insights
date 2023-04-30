@@ -1,0 +1,11 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"RL","Land Use","124","Canada","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","1417.61","T","Unofficial figure"
+"RL","Land Use","159","China","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","2445.789","E","Estimated value"
+"RL","Land Use","250","France","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","2517","A","Official figure"
+"RL","Land Use","276","Germany","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","1592.7","A","Official figure"
+"RL","Land Use","356","India","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","2657.89","T","Unofficial figure"
+"RL","Land Use","380","Italy","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","2095.4","A","Official figure"
+"RL","Land Use","392","Japan","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","11.992","T","Unofficial figure"
+"RL","Land Use","410","Republic of Korea","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","38.54","T","Unofficial figure"
+"RL","Land Use","826","United Kingdom of Great Britain and Northern Ireland","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","470.2177","A","Official figure"
+"RL","Land Use","840","United States of America","5110","Area","6671","Agriculture area under organic agric.","2020","2020","1000 ha","2326.6","T","Unofficial figure"
